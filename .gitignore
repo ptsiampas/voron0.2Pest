@@ -1,0 +1,6 @@
+saved_variables.cfg
+*.zip
+*-*_*.cfg
+adxl_results/belts/*.csv
+adxl_results/vibrations/*.tar.gz
+
